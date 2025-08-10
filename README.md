@@ -24,7 +24,7 @@ The purpose of this project is to:
 ## Quick start (clone & run)  
 ```bash
 # 1) Clone the repository
-git clone <YOUR_REPO_URL>
+git clone <https://github.com/DennisNHanrieder/onm1.git>
 cd onm1-main/onm1-main
 
 # 2) Install dependencies
