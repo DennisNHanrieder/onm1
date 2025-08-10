@@ -1,4 +1,4 @@
-# video1
+# Smiple Video Player
 
 ## Overview  
 **video1** is a lightweight web application built with **Vue 3**, **Vite**, and **TypeScript**. It showcases a custom interactive HTML5 video player interface.
