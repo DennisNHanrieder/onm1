@@ -4,8 +4,8 @@
 **video1** is a lightweight web application built with **Vue 3**, **Vite**, and **TypeScript**. It showcases a custom interactive HTML5 video player interface.
 
 The application allows users to:  
-- Play and pause a video seamlessly.  
-- Mute and unmute audio instantly.  
+- Play and pause a video.  
+- Mute and unmute audio.  
 - Skip to any point in the video using an interactive progress/timeline bar.  
 - Enjoy a responsive, performant, and accessible UI.
 
